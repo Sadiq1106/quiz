@@ -3,7 +3,7 @@ pipeline {
 	stages {
 		stage('Checkout SCM') {
 			steps {
-				git 'https://github.com/Sadiq1106/quiz'
+				git 'https://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@github.com/Sadiq1106/quiz'
 			}
 		}
 
